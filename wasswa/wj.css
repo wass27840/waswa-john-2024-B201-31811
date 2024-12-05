@@ -1,0 +1,30 @@
+#K{
+	color:white;
+	text-align:center;
+	font-family:arial;
+	height:50px;
+}
+.Boy{
+	text-align:center;
+	text-decoration:overline;
+color:white;
+}
+h2{
+	text-decoration:underline;
+	font-size:height 60px,width 40px;
+	text-shadow:4px 6px 5px;
+}
+h4{
+	text-align:center
+	background-color:white;
+}
+body{
+	background-color:gray;
+	border:30px 40px 50px;
+}
+div{
+	text-align:center;
+	background-color:white;
+}
+
+
